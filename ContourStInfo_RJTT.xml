@@ -1,0 +1,590 @@
+<?xml version="1.0"?>
+<Airport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AirportInfo>
+    <ICAO>RJTT</ICAO>
+    <Name>羽田空港</Name>
+    <PixLNGMax>139.8782777</PixLNGMax>
+    <PixLNGMin>139.7243611</PixLNGMin>
+    <PixLATMax>35.6575</PixLATMax>
+    <PixLATMin>35.48575</PixLATMin>
+    <FlogFit>True</FlogFit>
+  </AirportInfo>
+  <StationInfo>
+    <Station>
+      <ID>HT01</ID>
+      <Name>都立高専</Name>
+      <LNG>139.7490361</LNG>
+      <LAT>35.60689444</LAT>
+      <Type>S</Type>
+      <CalcStart>2013/04/01</CalcStart>
+      <CalcSpan>365</CalcSpan>
+      <Value>43.0594587405841</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>a</Comment>
+    </Station>
+    <Station>
+      <ID>HT02</ID>
+      <Name>八潮学園</Name>
+      <LNG>139.7529639</LNG>
+      <LAT>35.60148333</LAT>
+      <Type>S</Type>
+      <CalcStart>2013/04/01</CalcStart>
+      <CalcSpan>365</CalcSpan>
+      <Value>46.8783373799592</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>aaa</Comment>
+    </Station>
+    <Station>
+      <ID>HO06</ID>
+      <Name>工場Ｄ</Name>
+      <LNG>0</LNG>
+      <LAT>0</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment>大田区</Comment>
+    </Station>
+    <Station>
+      <ID>HO07</ID>
+      <Name>環境整備公社</Name>
+      <LNG>139.811175</LNG>
+      <LAT>35.65648</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO08</ID>
+      <Name>国際展示場</Name>
+      <LNG>139.793808</LNG>
+      <LAT>35.630052</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO09</ID>
+      <Name>有明清掃工場</Name>
+      <LNG>139.784851</LNG>
+      <LAT>35.632674</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO10</ID>
+      <Name>青海フロンティア</Name>
+      <LNG>139.778371</LNG>
+      <LAT>35.617782</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO11</ID>
+      <Name>埋立管理事務所</Name>
+      <LNG>139.784162</LNG>
+      <LAT>35.612646</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO15</ID>
+      <Name>森ヶ崎水処理２</Name>
+      <LNG>139.749112</LNG>
+      <LAT>35.565693</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO16</ID>
+      <Name>大田技術専</Name>
+      <LNG>139.739606</LNG>
+      <LAT>35.548787</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO17</ID>
+      <Name>糀谷中</Name>
+      <LNG>139.736742</LNG>
+      <LAT>35.556069</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO18</ID>
+      <Name>東糀谷小</Name>
+      <LNG>139.744122</LNG>
+      <LAT>35.558683</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO20</ID>
+      <Name>葛西六小</Name>
+      <LNG>139.864947</LNG>
+      <LAT>35.66805</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO21</ID>
+      <Name>葛西七小</Name>
+      <LNG>139.85974</LNG>
+      <LAT>35.659965</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO22</ID>
+      <Name>大田清掃工場</Name>
+      <LNG>139.768558</LNG>
+      <LAT>35.573215</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO23</ID>
+      <Name>海浜公園事務所</Name>
+      <LNG>139.783403</LNG>
+      <LAT>35.58157</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO24</ID>
+      <Name>エコプラント</Name>
+      <LNG>139.781145</LNG>
+      <LAT>35.578892</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO25</ID>
+      <Name>大井競馬場</Name>
+      <LNG>139.743547</LNG>
+      <LAT>35.593862</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO26</ID>
+      <Name>出雲中</Name>
+      <LNG>139.737403</LNG>
+      <LAT>35.549009</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HO99</ID>
+      <Name>多摩川グランド</Name>
+      <LNG>139.664769</LNG>
+      <LAT>35.586965</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID>HT03</ID>
+      <Name>平和島</Name>
+      <LNG>139.7503528</LNG>
+      <LAT>35.57997222</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>52</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度Lden値</Comment>
+    </Station>
+    <Station>
+      <ID>HT04</ID>
+      <Name>大森四小</Name>
+      <LNG>139.7425361</LNG>
+      <LAT>35.56558889</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>53</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度Lden値</Comment>
+    </Station>
+    <Station>
+      <ID>HT05</ID>
+      <Name>新仲七会館</Name>
+      <LNG>139.7519028</LNG>
+      <LAT>35.5491</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>57</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度Lden値</Comment>
+    </Station>
+    <Station>
+      <ID>HO01</ID>
+      <Name>大田市場</Name>
+      <LNG>139.7601222</LNG>
+      <LAT>35.58057778</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>52</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度短期測定Lden値採用</Comment>
+    </Station>
+    <Station>
+      <ID>HO03</ID>
+      <Name>国際救援センター</Name>
+      <LNG>139.7613583</LNG>
+      <LAT>35.59728611</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>57</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度短期測定Lden値採用</Comment>
+    </Station>
+    <Station>
+      <ID>HO04</ID>
+      <Name>森ヶ崎水処理センター</Name>
+      <LNG>139.7491111</LNG>
+      <LAT>35.56569167</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>58</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度短期測定Lden値採用</Comment>
+    </Station>
+    <Station>
+      <ID>HO05</ID>
+      <Name>中富小学校</Name>
+      <LNG>139.7410278</LNG>
+      <LAT>35.56968889</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>61</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度短期測定Lden値採用</Comment>
+    </Station>
+    <Station>
+      <ID>HO19</ID>
+      <Name>羽田中学校</Name>
+      <LNG>139.7504444</LNG>
+      <LAT>35.5571</LAT>
+      <Type>M</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>65</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>平成14年度短期測定Lden値採用</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>A滑走路北端</Name>
+      <LNG>139.7689167</LNG>
+      <LAT>35.56019722</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>A滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>A滑走路南端</Name>
+      <LNG>139.7858056</LNG>
+      <LAT>35.53636389</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>A滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>A滑走路中央</Name>
+      <LNG>139.7773611</LNG>
+      <LAT>35.54828056</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>A滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>A滑走路2/5</Name>
+      <LNG>139.7731389</LNG>
+      <LAT>35.55423889</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>A滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>A滑走路4/5</Name>
+      <LNG>139.7815833</LNG>
+      <LAT>35.54232222</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>A滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>B滑走路北端</Name>
+      <LNG>139.7772583</LNG>
+      <LAT>35.56763056</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>B滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>B滑走路南端</Name>
+      <LNG>139.76115</LNG>
+      <LAT>35.54881111</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>B滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>B滑走路中央</Name>
+      <LNG>139.7692042</LNG>
+      <LAT>35.55822083</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>B滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>B滑走路2/5</Name>
+      <LNG>139.7732313</LNG>
+      <LAT>35.56292569</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>B滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>B滑走路4/5</Name>
+      <LNG>139.7651771</LNG>
+      <LAT>35.55351597</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>B滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>C滑走路北端</Name>
+      <LNG>139.7863972</LNG>
+      <LAT>35.56607778</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>C滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>C滑走路南端</Name>
+      <LNG>139.8032611</LNG>
+      <LAT>35.54230278</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>C滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>C滑走路中央</Name>
+      <LNG>139.7948292</LNG>
+      <LAT>35.55419028</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>C滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>C滑走路2/5</Name>
+      <LNG>139.7906132</LNG>
+      <LAT>35.56013403</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>C滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>C滑走路4/5</Name>
+      <LNG>139.7990451</LNG>
+      <LAT>35.54824653</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>95</Value>
+      <CheckFlag>True</CheckFlag>
+      <Comment>C滑走路ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>ダミー飛行経路1</Name>
+      <LNG>139.8067194</LNG>
+      <LAT>35.59277222</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>80</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment>飛行経路ダミー値1</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>ダミー南東端</Name>
+      <LNG>139.8616028</LNG>
+      <LAT>35.53636389</LAT>
+      <Type>O</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>50</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment>ダミー値</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>bbb</Name>
+      <LNG>139.86477</LNG>
+      <LAT>35.53637</LAT>
+      <Type>A</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>46.8</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+    <Station>
+      <ID />
+      <Name>テスト０２</Name>
+      <LNG>139.85</LNG>
+      <LAT>35.6</LAT>
+      <Type>A</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>54.0</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment>テスト</Comment>
+    </Station>
+    <Station>
+      <ID />
+      <Name>テスト３</Name>
+      <LNG>139.85</LNG>
+      <LAT>35.64</LAT>
+      <Type>A</Type>
+      <CalcStart />
+      <CalcSpan />
+      <Value>45.6</Value>
+      <CheckFlag>False</CheckFlag>
+      <Comment />
+    </Station>
+  </StationInfo>
+</Airport>
