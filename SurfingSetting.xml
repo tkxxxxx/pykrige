@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SurfingSettings>
+  <!-- 空港情報 -->
+  <!-- 横田飛行場 -->
+  <Airport>
+    <ICAO>RJTY</ICAO>
+    <VarioType>srfVarQuadratic</VarioType>
+    <AnisotropyRatio>0.3</AnisotropyRatio>
+    <AnisotropyAngle>15</AnisotropyAngle>
+    <xMin>139.2909111</xMin>
+    <xMax>139.4296833</xMax>
+    <yMin>35.59782222</yMin>
+    <yMax>35.83761389</yMax>
+  </Airport>
+  
+    <!-- 厚木飛行場 -->
+  <Airport>
+    <ICAO>RJTA</ICAO>
+    <VarioType>srfVarQuadratic</VarioType>
+    <AnisotropyRatio>1.0</AnisotropyRatio>
+    <AnisotropyAngle>0</AnisotropyAngle>
+    <xMin>139.3778666</xMin>
+    <xMax>139.4815167</xMax>
+    <yMin>35.44393055</yMin>
+    <yMax>35.59274167</yMax>
+  </Airport>
+
+  <!-- 羽田空港 -->
+  <Airport>
+    <ICAO>RJTT</ICAO>
+    <VarioType>srfVarQuadratic</VarioType>
+    <AnisotropyRatio>1.2</AnisotropyRatio>
+    <AnisotropyAngle>20</AnisotropyAngle>
+    <xMin>139.7158278</xMin>
+    <xMax>139.8616028</xMax>
+    <yMin>35.53636388</yMin>
+    <yMax>35.64615833</yMax>
+  </Airport>
+  
+</SurfingSettings>
